@@ -9,7 +9,7 @@
 #![deny(variant_size_differences, unused_results, unused_qualifications, unused_import_braces,
         unsafe_code, trivial_numeric_casts, trivial_casts, missing_docs,
         missing_debug_implementations, missing_copy_implementations, box_pointers,
-        unused_extern_crates)]
+        unused_extern_crates)] 
 #![allow(unused_imports, unused_extern_crates)]
 
 #[macro_use]
